@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\FishFarmingApp\bin\Debug\net8.0\FishFarmingApp.exe
+C:\Users\USER\Desktop\FishFarmingApp\bin\Debug\net8.0\FishFarmingApp.deps.json
+C:\Users\USER\Desktop\FishFarmingApp\bin\Debug\net8.0\FishFarmingApp.runtimeconfig.json
+C:\Users\USER\Desktop\FishFarmingApp\bin\Debug\net8.0\FishFarmingApp.dll
+C:\Users\USER\Desktop\FishFarmingApp\bin\Debug\net8.0\FishFarmingApp.pdb
+C:\Users\USER\Desktop\FishFarmingApp\obj\Debug\net8.0\FishFarmingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\FishFarmingApp\obj\Debug\net8.0\FishFarmingApp.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\FishFarmingApp\obj\Debug\net8.0\FishFarmingApp.AssemblyInfo.cs
+C:\Users\USER\Desktop\FishFarmingApp\obj\Debug\net8.0\FishFarmingApp.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\FishFarmingApp\obj\Debug\net8.0\FishFarmingApp.dll
+C:\Users\USER\Desktop\FishFarmingApp\obj\Debug\net8.0\refint\FishFarmingApp.dll
+C:\Users\USER\Desktop\FishFarmingApp\obj\Debug\net8.0\FishFarmingApp.pdb
+C:\Users\USER\Desktop\FishFarmingApp\obj\Debug\net8.0\FishFarmingApp.genruntimeconfig.cache
+C:\Users\USER\Desktop\FishFarmingApp\obj\Debug\net8.0\ref\FishFarmingApp.dll
